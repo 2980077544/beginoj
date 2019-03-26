@@ -52,7 +52,7 @@ Search topic: [go it!](https://github.com/2980077544/beginoj/find/master)
 
 * * *
 
-` Thank you for your reading.
+`Thank you for your reading.
 
 ```
 .
