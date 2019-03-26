@@ -1,6 +1,6 @@
-## beginoj
+## Beginoj(Chinese)
 
-[go to English](https://github.com/2980077544/beginoj/blob/master/README.md#en)
+[go to English](https://github.com/2980077544/beginoj/blob/master/README.md#beginoj-1)
 
 这里会不定期共享入门OJ中题库的C++答案哦！
 
@@ -14,7 +14,7 @@
 
 `感谢你的阅读哦(´-ω-`)
 
-## Beginoj[](#en)
+## Beginoj(English)
 
 Here we will share the C++ answers of the entry OJ question bank from time to time.
 
