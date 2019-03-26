@@ -14,6 +14,32 @@
 
 `感谢你的阅读哦(´-ω-`)
 
+```
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ## Beginoj(English)
 
 Here we will share the C++ answers of the entry OJ question bank from time to time.
@@ -27,3 +53,29 @@ Search topic: [go it!](https://github.com/2980077544/beginoj/find/master)
 * * *
 
 ` Thank you for your reading.
+
+```
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
