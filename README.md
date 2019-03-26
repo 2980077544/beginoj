@@ -1,6 +1,6 @@
 ## Beginoj(Chinese)
 
-[go to English](https://github.com/2980077544/beginoj/blob/master/README.md#beginoj-1)
+[go to English](https://github.com/2980077544/beginoj/blob/master/README.md#beginojengish)
 
 这里会不定期共享入门OJ中题库的C++答案哦！
 
